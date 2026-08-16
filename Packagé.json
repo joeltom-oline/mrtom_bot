@@ -1,0 +1,16 @@
+{
+  "name": "mrtom_bot",
+  "version": "1.0.0",
+  "description": "𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯 WhatsApp Bot - QR Code + Antilink + Admin tools",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "pino": "^8.17.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
