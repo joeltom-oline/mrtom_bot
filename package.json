@@ -1,14 +1,16 @@
 {
-  "name": "joel-tom-bot",
-  "version": "3.0.0",
-  "description": "WhatsApp bot Baileys pour Termux",
+  "name": "𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑩𝑶𝑻",
+  "version": "2.8.0",
+  "description": "JOEL TOM WhatsApp Bot - QR Code + Antilink + Admin tools",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "author": "𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯",
+  "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "latest",
-    "pino": "latest",
-    "qrcode-terminal": "latest"
+    "@whiskeysockets/baileys": "^6.7.18",
+    "pino": "^8.17.0",
+    "qrcode-terminal": "^0.12.0"
   }
 }
