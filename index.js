@@ -1462,5 +1462,3 @@ ${user}
 }
 
 startBot()
-Installation dans Termux
-Dans ton dossier du bot :
