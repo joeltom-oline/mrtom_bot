@@ -1,10 +1,10 @@
 module.exports = {
     OWNER_NUMBER: '237654145540',
     BOT_NAME: '𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑩𝑶𝑻',
-    VERSION: 'v3.0.0',
+    VERSION: 'v2.0.0',
     PREFIX: '.',
-    SIGNATURE: '> BY : _© 2026 𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯_',
-    OWNER_NAME: 'MRTOM',
+    SIGNATURE: '> BY : _©  𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯_',
+    OWNER_NAME: '𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯',
     MODE: 'public',
     LOGO_PATH: './logo.jpg',
     PING_BANNER: 'https://i.ibb.co/0yXk3vL/ping-banner.jpg',
