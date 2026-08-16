@@ -1,0 +1,14 @@
+{
+  "name": "joel-tom-bot",
+  "version": "3.0.0",
+  "description": "WhatsApp bot Baileys pour Termux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
