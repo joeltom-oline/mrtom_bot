@@ -1,7 +1,7 @@
 {
   "name": "joel-tom-bot",
-  "version": "2.0.0",
-  "description": "𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑩𝑶𝑻 – WhatsApp Bot by 💻𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯💻",
+  "version": "1.1.0",
+  "description": "𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑩𝑶𝑻 – WhatsApp Bot by 𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
