@@ -12,7 +12,7 @@ const qrcode = require('qrcode-terminal')
 const fs = require('fs')
 
 // ====== CONFIG ======
-const OWNER_NUM = '2250701020304' // Ton numéro SANS +
+const OWNER_NUM = '237654145540' // Ton numéro SANS +
 const PREFIX = '.'
 const OWNER = '𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑻𝑬𝑪𝑯'
 const BOTNAME = '𝑱𝑶𝑬𝑳 𝑻𝑶𝑴_𝑩𝑶𝑻'
